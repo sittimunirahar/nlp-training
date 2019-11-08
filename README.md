@@ -19,3 +19,15 @@ You may create your own file for training purpose:
 # Training Material
 
 Access folder "training_material" for training datasets 
+
+
+# Munirah's To do
+- Ask datasets from en hazrool
+- Prepare slides
+- Make repo public  
+- Test mybinder access on several devices
+- Test Jupyter notebook again whether the installation refreshed and need to be installed again once closed
+- Test doccano
+- Prepare code
+- Add streamlit project to github
+- Errr lastly remove this to do note BEFORE training :P
