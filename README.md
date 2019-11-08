@@ -3,8 +3,8 @@
 This repository is for training purpose of python's spacy
 
 Trainer: Mrs. Sitti Munirah bt Abdul Razak
-<br>Date:
-<br>Venue: 
+<br>Date: 6th December 2019 (Friday)
+<br>Venue: Sasana Kijang
 
 You may create your own file for training purpose:
 
