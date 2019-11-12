@@ -36,3 +36,9 @@ Before training:
     - python -m spacy download en_core_web_lg
     - conda install streamlit
 - Errr lastly remove this to do note BEFORE training :P
+
+# Spacy Installation on binder Jupyter 
+
+conda install spacy
+python -m spacy download en_core_web_lg
+python -m spacy link en_core_web_lg en_lg
