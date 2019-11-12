@@ -22,12 +22,19 @@ Access folder "training_material" for training datasets
 
 
 # Munirah's To do
-- Ask datasets from en hazrool
+~~- Ask datasets from en hazrool~~
 - Prepare slides
-- Make repo public  
-- Test mybinder access on several devices
-- Test Jupyter notebook again whether the installation refreshed and need to be installed again once closed
-- Test doccano
+~~- Make repo public ~~
+~~- Test mybinder access on several devices~~
+~~- Test doccano~~
 - Prepare code
-- Add streamlit project to github
+- Prepare doccano
+- Download, Upload datasets
+- Add streamlit project to github/code 
+Before training:
+- Create all jupyter notebook files based on participant names and push to gh
+- Install spacy and all in binder 
+    - conda install spacy
+    - python -m spacy download en_core_web_lg
+    - conda install streamlit
 - Errr lastly remove this to do note BEFORE training :P
