@@ -6,6 +6,8 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Date:__ 5th December 2019 (Thursday)
 <br>__Venue:__ Sasana Kijang
 
+# Setting up the environment
+
 You may create your own file for training purpose:
 
 1. Open your browser and enter this url at url bar which will launch Jupyter Notebook:
@@ -22,17 +24,13 @@ Access folder "training_material" for training datasets
 
 
 # Munirah's To do
-~~- Ask datasets from en hazrool~~
 - Prepare slides
-~~- Make repo public ~~
-~~- Test mybinder access on several devices~~
-~~- Test doccano~~
 - Prepare code
 - Prepare doccano
 - Download, Upload datasets
 - Add streamlit project to github/code 
 Before training:
-- Create all jupyter notebook files based on participant names and push to gh
+- Create all jupyter notebook files based on participant names and push to gh (edit the instruction)
 - Install spacy and all in binder 
     - conda install spacy
     - python -m spacy download en_core_web_lg
