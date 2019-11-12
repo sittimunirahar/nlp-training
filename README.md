@@ -2,9 +2,9 @@
 
 This repository is for training purpose of python's NLP training using spacy
 
-Trainer: Mrs. Sitti Munirah bt Abdul Razak
-<br>Date: 6th December 2019 (Friday)
-<br>Venue: Sasana Kijang
+__Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
+<br>__Date:__ 5th December 2019 (Thursday)
+<br>__Venue:__ Sasana Kijang
 
 You may create your own file for training purpose:
 
