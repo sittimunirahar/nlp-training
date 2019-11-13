@@ -39,6 +39,6 @@ Before training:
 
 # Spacy Installation on binder Jupyter 
 
-conda install spacy
-python -m spacy download en_core_web_lg
-python -m spacy link en_core_web_lg en_lg
+- conda install spacy
+- python -m spacy download en_core_web_lg
+- python -m spacy link en_core_web_lg en_lg
