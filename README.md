@@ -14,13 +14,22 @@ You may create your own file for training purpose:
     
     https://mybinder.org/v2/gh/sittimunirahar/nlp-training/master
     
-2. Click New button and select "Python 3"
-3. Rename the file into your name
+2. Click New button and select Terminal
+3. Execute the following command for installation
+
+    - conda install spacy
+    - python -m spacy download en_core_web_sm
+    - python -m spacy link en_core_web_sm en_core_web_sm
+    - conda install pandas
+    - conda install streamlit
+
+3. Close terminal
+4. At jupyter notebook window, click to open jupyter notebook file with your name as its title 
 4. Now you have your own file and environment, happy coding!
 
 # Training Material
 
-Access folder "training_material" for training datasets 
+Access folder "Datasets" for training datasets 
 
 
 # Munirah's To do
@@ -31,14 +40,6 @@ Access folder "training_material" for training datasets
 - Add streamlit project to github/code 
 Before training:
 - Create all jupyter notebook files based on participant names and push to gh (edit the instruction)
-- Install spacy and all in binder 
-    - conda install spacy
-    - python -m spacy download en_core_web_sm
-    - conda install streamlit
 - Errr lastly remove this to do note BEFORE training :P
 
-# Spacy Installation on binder Jupyter 
 
-- conda install spacy
-- python -m spacy download en_core_web_sm
-- python -m spacy link en_core_web_sm en_core_web_sm
