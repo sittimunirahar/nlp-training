@@ -8,24 +8,12 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 
 # Setting up the environment
 
-You may create your own file for training purpose:
-
 1. Open your browser and enter this url at url bar which will launch Jupyter Notebook:
     
     https://mybinder.org/v2/gh/sittimunirahar/nlp-training/master
     
-2. Click New button and select Terminal
-3. Execute the following command for installation
-
-    - conda install spacy
-    - python -m spacy download en_core_web_sm
-    - python -m spacy link en_core_web_sm en_core_web_sm
-    - conda install pandas
-    - conda install streamlit
-
-3. Close terminal
-4. At jupyter notebook window, click to open jupyter notebook file with your name as its title 
-4. Now you have your own file and environment, happy coding!
+2. At jupyter notebook window, click to open jupyter notebook file with your name as its title 
+3. Now you have your own file and environment, happy coding!
 
 # Training Material
 
