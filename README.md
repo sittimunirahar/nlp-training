@@ -1,6 +1,6 @@
 # nlp-training
 
-This repository is for training purpose of python's NLP training using spacy
+This repository is for training purpose of "NLP Training: using spaCy for NER and Text Categorization"
 
 __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Date:__ 5th December 2019 (Thursday)
