@@ -33,12 +33,12 @@ Before training:
 - Create all jupyter notebook files based on participant names and push to gh (edit the instruction)
 - Install spacy and all in binder 
     - conda install spacy
-    - python -m spacy download en_core_web_lg
+    - python -m spacy download en_core_web_sm
     - conda install streamlit
 - Errr lastly remove this to do note BEFORE training :P
 
 # Spacy Installation on binder Jupyter 
 
 - conda install spacy
-- python -m spacy download en_core_web_lg
-- python -m spacy link en_core_web_lg en_lg
+- python -m spacy download en_core_web_sm
+- python -m spacy link en_core_web_sm en_core_web_sm
