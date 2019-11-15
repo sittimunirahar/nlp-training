@@ -8,13 +8,13 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 
 # Setting up the environment 
 
-# Option 1: Google Colab
+__Option 1: Google Colab__
 
 1. Launch google colab:
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/untitled.ipynb)
 
-# Option 2: Binder
+__Option 2: Binder__
 
 1. Launch binder to launch Jupyter Notebook:
     
