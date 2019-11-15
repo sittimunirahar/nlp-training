@@ -1,6 +1,6 @@
 # nlp-training
 
-This repository is for training purpose of "NLP Training: using spaCy for NER and Text Categorization"
+This repository is for training purpose of __"NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
 
 __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Date:__ 5th December 2019 (Thursday)
@@ -18,6 +18,7 @@ __Option 1: Google Colab__ (Requires google account and use this if you want to 
 3. To use back your code, just load it from your drive. 
    <br>Open drive > open colab notebook file > select your file, Happy coding!
 
+<br>
 
 __Option 2: Binder__ (temporary environment and work will be lost once you are inactive!)
 
