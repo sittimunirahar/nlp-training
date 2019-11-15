@@ -12,7 +12,7 @@ __Option 1: Google Colab__
 
 1. Launch google colab:
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/untitled.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/untitled.ipynb)
 
 __Option 2: Binder__
 
