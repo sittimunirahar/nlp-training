@@ -10,12 +10,13 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 
 __Option 1: Google Colab__ (Requires google account)
 
-1. Launch google colab and login to your account:
+1. Launch google colab and __login to your account__:
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sittimunirahar/nlp-training/blob/master/untitled.ipynb)
 
-2. To save your file, click file -> save file to drive. 
-3. To use back your code, just load it from your drive. Open colab notebook > select your saved file, Happy coding!
+2. Save your file, click file -> save a copy in drive -> rename file and save.
+3. To use back your code, just load it from your drive. 
+   <br>Open drive > open colab notebook file > select your file, Happy coding!
 
 __Option 2: Binder__
 
