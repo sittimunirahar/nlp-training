@@ -6,7 +6,15 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Date:__ 5th December 2019 (Thursday)
 <br>__Venue:__ Sasana Kijang
 
-# Setting up the environment
+# Setting up the environment 
+
+# Option 1: Google Colab
+
+1. Launch google colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/untitled.ipynb)
+
+# Option 2: Binder
 
 1. Launch binder to launch Jupyter Notebook:
     
