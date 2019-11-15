@@ -12,7 +12,7 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 
 1. Launch google colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/untitled.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/untitled.ipynb)
 
 # Option 2: Binder
 
