@@ -18,7 +18,7 @@ __Option 1: Google Colab__ (Requires google account and if you want to save your
 3. To use back your code, just load it from your drive. 
    <br>Open drive > open colab notebook file > select your file, Happy coding!
 
-<br>
+
 __Option 2: Binder__
 
 1. Launch binder to launch Jupyter Notebook (temporary environment and work will be lost once you are inactive):
