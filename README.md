@@ -3,7 +3,7 @@
 This repository is for training purpose of __"NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
 
 __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
-<br>__Date:__ 5th December 2019 (Thursday)
+<br>__Date:__ 4th December 2019 (Wednesday)
 <br>__Venue:__ Sasana Kijang
 
 # Setting up the environment 
