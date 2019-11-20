@@ -1,4 +1,4 @@
-# nlp-training
+# NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization
 
 This repository is for training purpose of __"NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
 
@@ -14,9 +14,10 @@ __Option 1: Google Colab__ (Requires google account and use this if you want to 
 
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sittimunirahar/nlp-training/blob/master/untitled.ipynb)
 
-2. Save your file, click file > save a copy in drive > rename file and save.
+2. Save your file into drive and **use this file for training**: 
+   <br>File > save a copy in drive > rename file > save
 3. To use back your code, just load it from your drive. 
-   <br>Open drive > open colab notebook file > select your file, Happy coding!
+   <br>Go to your gdrive > open colab notebook folder > select your file, Happy coding!
 
 <br>
 
