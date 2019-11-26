@@ -30,5 +30,5 @@ __Option 2: Binder__ (temporary environment and work will be lost once you are i
 2. At jupyter notebook window, click new > Python 3 
 3. Now you have your own file and environment, happy coding!
 
-
-
+# Slides
+https://tiny.cc/spacy_training
