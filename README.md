@@ -30,19 +30,5 @@ __Option 2: Binder__ (temporary environment and work will be lost once you are i
 2. At jupyter notebook window, click new > Python 3 
 3. Now you have your own file and environment, happy coding!
 
-# Training Material
-
-Access folder "Datasets" for training datasets 
-
-
-# Munirah's To do
-- Prepare slides
-- Prepare code
-- Prepare doccano
-- Download, Upload datasets
-- Add streamlit project to github/code 
-Before training:
-- Create all jupyter notebook files based on participant names and push to gh (edit the instruction)
-- Errr lastly remove this to do note BEFORE training :P
 
 
