@@ -32,3 +32,4 @@ __Option 2: Binder__ (temporary environment and work will be lost once you are i
 
 # Slides
 https://tiny.cc/spacy_training
+http://tiny.cc/python-for-beginner
