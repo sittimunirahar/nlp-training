@@ -31,5 +31,5 @@ __Option 2: Binder__ (temporary environment and work will be lost once you are i
 3. Now you have your own file and environment, happy coding!
 
 # Slides
-https://tiny.cc/spacy_training
-http://tiny.cc/python-for-beginner
+1. SpaCy training: https://tiny.cc/spacy_training
+2. Preworkshop Python for beginners: http://tiny.cc/python-for-beginner
