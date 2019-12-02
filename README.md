@@ -1,6 +1,6 @@
-# NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization
+# Hands On NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization
 
-This repository is for training purpose of __"NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
+This repository is for training purpose of __"Hands On NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
 
 __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Date:__ 4th December 2019 (Wednesday)
