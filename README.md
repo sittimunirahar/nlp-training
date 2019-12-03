@@ -20,13 +20,6 @@ __Google Colab__ (Requires google account and use this if you want to save your 
 
 <br>
 
-# __Option 2: Binder__ (temporary environment and work will be lost once you are inactive!)
-
-# 1. Launch binder to launch Jupyter Notebook:
-
-# 2. At jupyter notebook window, click new > Python 3 
-# 3. Now you have your own file and environment, happy coding!
-
 # Slides
 1. SpaCy training: https://tiny.cc/spacy_training
 2. Preworkshop Python for beginners: http://tiny.cc/python-for-beginner
