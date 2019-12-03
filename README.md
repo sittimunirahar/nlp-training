@@ -7,7 +7,7 @@ __Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
 <br>__Venue:__ Sasana Kijang
 
 # Setting up the environment 
-Google Colab__ (Requires google account and use this if you want to save your work!)
+__Google Colab__ (Requires google account and use this if you want to save your work!)
 
 1. Launch google colab and __login to your account__:
 
