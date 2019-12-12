@@ -2,10 +2,6 @@
 
 This repository is for training purpose of __"Hands On NLP with spaCy: SpaCy for Named Entity Recognition & Text Categorization"__
 
-__Trainer:__ Mrs. Sitti Munirah bt Abdul Razak
-<br>__Date:__ 4th December 2019 (Wednesday)
-<br>__Venue:__ Sasana Kijang
-
 # Setting up the environment 
 __Google Colab__ (Requires google account and use this if you want to save your work!)
 
