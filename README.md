@@ -17,5 +17,5 @@ __Google Colab__ (Requires google account and use this if you want to save your 
 <br>
 
 # Slides
-1. SpaCy training: https://tiny.cc/spacy_training
-2. Preworkshop Python for beginners: http://tiny.cc/python-for-beginner
+1. [SpaCy training](https://docs.google.com/presentation/d/1aoe6uZww3QjX5AvNuN1nQexgGKQrGPY2VWYnuDphRa8/edit?usp=sharing)
+2. [Preworkshop Python for beginners](https://docs.google.com/presentation/d/1qC5qqJgqY64Vn1gFAVQ-B1b5Ok_NEUy0fl15SaRw_ho/edit?usp=sharing)
